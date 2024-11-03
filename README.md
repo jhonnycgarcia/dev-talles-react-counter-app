@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 `https://developers.google.com/search/docs/crawling-indexing/robots/intro?hl=es&visit_id=637909934831052162-4097033822&rd=1`
 `https://web.dev/learn/pwa/`
 `https://create-react-app.dev/docs/available-scripts/`
+`https://gist.github.com/Klerith/e1a731cc595c00a9794a709062eae757`****
