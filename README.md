@@ -12,3 +12,4 @@ Currently, two official plugins are available:
 `https://create-react-app.dev/docs/available-scripts/`
 `https://gist.github.com/Klerith/e1a731cc595c00a9794a709062eae757`
 `https://es.react.dev/reference/react-dom/components/common#react-event-object`
+`https://jestjs.io/`
