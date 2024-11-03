@@ -1,6 +1,9 @@
 
 export const FirstApp = () => {
   return (
-    <div>FirstApp</div>
+    <>
+      <div>FirstApp</div>
+      <p>Hello, world!</p>
+    </>
   )
 }
