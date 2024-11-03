@@ -1,8 +1,14 @@
 
+const getResult = () => {
+  return 'Hola mundo'
+}
+
 export const FirstApp = () => {
+
   return (
     <>
-      <div>FirstApp</div>
+      <h1>{getResult()}</h1>
+      {/* <div>{newMessage}</div> */}
       <p>Hello, world!</p>
     </>
   )
