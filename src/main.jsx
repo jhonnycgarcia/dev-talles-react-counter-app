@@ -8,6 +8,6 @@ import './style.css'
 createRoot(document.getElementById('root')).render(
     <StrictMode>
         {/* <App /> */}
-        <FirstApp title='Pedro' subtitle='El primer app'/>
+        <FirstApp />
     </StrictMode>,
 )
