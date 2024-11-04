@@ -10,8 +10,8 @@ export const FirstApp = ({ name, title, subtitle }) => {
   return (
     <>
       <h1>{getResult() + ' ' + title}</h1>
-      <div>{subtitle}</div>
-      <div>{name}</div>
+      <p>{subtitle}</p>
+      <p>{name}</p>
     </>
   )
 }

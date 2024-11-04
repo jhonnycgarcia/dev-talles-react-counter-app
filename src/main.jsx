@@ -3,11 +3,13 @@ import { createRoot } from 'react-dom/client'
 
 import './style.css'
 
-import { CounterApp } from './CounterApp'
+import { FirstApp } from './FirstApp'
+// import { CounterApp } from './CounterApp'
 
 
 createRoot(document.getElementById('root')).render(
     <StrictMode>
-        <CounterApp value={10} />
+        <FirstApp />
+        {/* <CounterApp value={10} /> */}
     </StrictMode>,
 )
