@@ -13,7 +13,7 @@ export const FirstApp = ({
 
   return (
     <>
-      <h1>{getResult() + ' ' + title}</h1>
+      <h1>{title}</h1>
       <p>{subtitle}</p>
       <p>{name}</p>
     </>
