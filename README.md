@@ -15,3 +15,4 @@ Currently, two official plugins are available:
 `https://jestjs.io/`
 `https://nodejs.org/docs/latest/api/modules.html#enabling`
 `https://gist.github.com/Klerith/4aeb99d31aedbc29ff4d54bbb77d2d7f`
+`https://developers.giphy.com/`
