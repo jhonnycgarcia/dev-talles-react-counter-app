@@ -22,9 +22,9 @@ export const CounterApp = ({ value }) => {
         <>
             <h1>CounterApp</h1>
             <h2> {counter} </h2>
-            <button onClick={increment}>+1</button>
-            <button onClick={decrement}>-1</button>
-            <button onClick={reset}>Reset</button>
+            <button aria-label='btn-add' onClick={increment}>+1</button>
+            <button aria-label='btn-sub' onClick={decrement}>-1</button>
+            <button aria-label='btn-reset' onClick={reset}>Reset</button>
         </>
     );
 }
