@@ -33,6 +33,6 @@ CounterApp.propTypes = {
     value: PropTypes.number.isRequired,
 };
 
-CounterApp.defaultProps = {
-    value: 0,
-}
+// CounterApp.defaultProps = {
+//     value: 0,
+// }
