@@ -5,7 +5,11 @@ const getResult = () => {
   return 'Hola'
 }
 
-export const FirstApp = ({ name, title, subtitle }) => {
+export const FirstApp = ({ 
+  name = 'Pedro', 
+  title, 
+  subtitle = 'Este es el subtítulo por defecto'
+}) => {
 
   return (
     <>
@@ -17,13 +21,13 @@ export const FirstApp = ({ name, title, subtitle }) => {
 }
 
 FirstApp.propTypes = {
-  name: PropTypes.string.isRequired,
+  name: PropTypes.string,
   title: PropTypes.string.isRequired,
-  subtitle: PropTypes.string.isRequired,
+  subtitle: PropTypes.string,
 };
 
-FirstApp.defaultProps = {
-  name: 'Pedro',
-  subtitle: 'Este es el subtítulo por defecto',
-  title: 'Título por defecto',
-}
+// FirstApp.defaultProps = {
+//   name: 'Pedro',
+//   subtitle: 'Este es el subtítulo por defecto',
+//   // title: 'Título por defecto',
+// }
