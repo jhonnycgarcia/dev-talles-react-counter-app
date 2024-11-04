@@ -14,3 +14,4 @@ Currently, two official plugins are available:
 `https://es.react.dev/reference/react-dom/components/common#react-event-object`
 `https://jestjs.io/`
 `https://nodejs.org/docs/latest/api/modules.html#enabling`
+`https://gist.github.com/Klerith/4aeb99d31aedbc29ff4d54bbb77d2d7f`
